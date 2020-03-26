@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\GUI\GUI\bin\Debug\GUI.exe.config
+C:\Users\PC\source\repos\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\PC\source\repos\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\PC\source\repos\GUI\GUI\bin\Debug\GUI.xml
+C:\Users\PC\source\repos\GUI\GUI\obj\Debug\GUI.vbprojAssemblyReference.cache
+C:\Users\PC\source\repos\GUI\GUI\obj\Debug\GUI.Resources.resources
+C:\Users\PC\source\repos\GUI\GUI\obj\Debug\GUI.vbproj.GenerateResource.cache
+C:\Users\PC\source\repos\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\PC\source\repos\GUI\GUI\obj\Debug\GUI.xml
+C:\Users\PC\source\repos\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\PC\source\repos\GUI\GUI\obj\Debug\GUI.FormPrincipal.resources
+C:\Users\PC\source\repos\GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\PC\source\repos\GUI\GUI\obj\Debug\GUI.Form2.resources
+C:\Users\PC\source\repos\GUI\GUI\obj\Debug\GUI.Form3.resources
